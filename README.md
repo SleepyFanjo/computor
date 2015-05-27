@@ -1,4 +1,4 @@
 # computor
 
-Just a simple equation solver
+Just a simple equation solver<br/>
 Made with love
